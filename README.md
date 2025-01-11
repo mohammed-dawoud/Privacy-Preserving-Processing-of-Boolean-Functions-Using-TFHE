@@ -4,7 +4,7 @@ This solution is designed to execute Boolean functions on sets of binary vectors
 
 
 # Citations
-To cite Privacy-Preserving-Processing-of-Boolean-Functions-Using-TFHE in academic papers, please use the following entry:
+To cite <b>Privacy-Preserving-Processing-of-Boolean-Functions-Using-TFHE<\b> in academic papers, please use the following entry:
 
 ```text
 
