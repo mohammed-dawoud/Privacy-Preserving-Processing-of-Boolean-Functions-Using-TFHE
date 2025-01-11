@@ -16,6 +16,7 @@ The MEX functions are already compiled you can simply use them using the functio
 3. Download the repository
 4. Add the CORA toolbox and the downloaded repo to your MatLab path
 5. You can simply modify the TFHE_TestConPolyLogicalFunctions.m file to test the different APIs provided for the privacy-preserving Boolean functions and intersection
+6. The provided MEX APIs are: <b>client_encryptor, client_decryptor, cloud_operator</b>. You can these APIs to create and perform any sequence of logical operations you would like to execute. Using these APIs you can run any arbitrary logical operations in a privacy-preserving manner on sets represented as constrained polynomial logical zonotopes or logical zonotopes.
 
 # Support
 Questions and support are welcome at eng.mohamed.dawoud@gmail.com
