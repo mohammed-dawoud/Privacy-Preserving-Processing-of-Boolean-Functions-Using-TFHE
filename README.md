@@ -9,7 +9,7 @@ To run the code on your device you need to install the following:
 2. [CORA Tool Box](https://tumcps.github.io/CORA/)
 3. [Fast Fully Homomorphic Encryption Over Torus](https://tfhe.github.io/tfhe/)
 <br></br>
-The experiment was run on Ubuntu 22.04.5 LTS, CORA 2022, and MatLab 2023b. However, it would be fine if you had higher editions.
+The experiment was run on Ubuntu 22.04.5 LTS, CORA 2022, and MatLab 2023b. However, it should be fine if you had higher editions.
 # How to run
 1. Make sure you can use the TFHE APIs within MatLab,i.e., you can include the paths within MatLab
 3. Download the repository
