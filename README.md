@@ -3,7 +3,7 @@ A solution that enables the execution of Boolean functions on sets of binary vec
 Intersections Using Constrained Polynomial Logical Zonotopes</b>.
 This solution is designed to execute Boolean functions on sets of binary vectors within a reduced space while ensuring privacy preservation. Leveraging constrained polynomial logical zonotopes as a novel set representation, capable of representing up to 2^𝛾 binary vectors using only 𝛾 generators, enables the execution of Boolean functions in the reduced space of constrained polynomial logical zonotopes, i.e., the generator space. To ensure the privacy of sets throughout the computation process, the proposed solution utilizes the TFHE, which offers a fast gate-by-gate bootstrapping approach for evaluating arbitrary Boolean circuits in the encrypted domain.
 
-#Dependencies
+# Dependencies
 To run the code on your device you need to install the following:
 1. [MatLab](https://www.mathworks.com/products/matlab.html)
 2. [CORA Tool Box](https://tumcps.github.io/CORA/)
