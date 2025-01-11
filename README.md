@@ -11,7 +11,7 @@ To run the code on your device you need to install the following:
 <br></br>
 The experiment was run on Ubuntu 22.04.5 LTS, CORA 2022, and MatLab 2023b. However, it should be fine if you had higher editions.
 # How to run
-1. Make sure you can use the TFHE APIs within MatLab,i.e., you can include the paths within MatLab
+1. Make sure you can use the TFHE APIs within MatLab, i.e., you can include the paths within MatLab
 3. Download the repository
 4. Add the CORA toolbox and the downloaded repo to your MatLab path
 5. You can simply modify the TFHE_TestConPolyLogicalFunctions.m file to test the different APIs provided for the privacy-preserving Boolean functions and intersection
