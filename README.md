@@ -10,7 +10,7 @@ To run the code on your device you need to install the following:
 3. [Fast Fully Homomorphic Encryption Over Torus](https://tfhe.github.io/tfhe/)
 <br></br>
 The experiment was run on Ubuntu 22.04.5 LTS, CORA 2022, MatLab 2023b, and MEX Function. However, it should be fine if you had higher editions.
-The MEX functions are already compiled you can simply use them using the function name without extension in the MatLab command line or within a M-file.
+The MEX functions are already compiled you can simply use them using the function name without the (.mexa64) extension in the MatLab command line or within a M-file.
 # How to run
 1. Make sure you can use the TFHE APIs within MatLab, i.e., you can include the paths within MatLab
 3. Download the repository
